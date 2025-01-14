@@ -36,59 +36,59 @@ const form = document.getElementById('form');
 const allergensData = [
     {
         "name": "leche",
-        "img": "../alergenos/leche.png"
+        "img": "https://i.ibb.co/R7gdswG/leche.png"
     },
     {
         "name": "glutten",
-        "img": "../alergenos/glutten.png"
+        "img": "https://i.ibb.co/vJBXrNd/glutten.png"
     },
     {
         "name": "frutosSeco",
-        "img": "../alergenos/frutosSeco.png"
+        "img": "https://i.ibb.co/DpNLWN1/frutos-Seco.png"
     },
     {
         "name": "mostaza",
-        "img": "../alergenos/mostaza.png"
+        "img": "https://i.ibb.co/xFP2YGv/mostaza.png"
     },
     {
         "name": "apio",
-        "img": "../alergenos/apio.png"
+        "img": "https://i.ibb.co/pj43jgr/apio.png"
     },
     {
         "name": "altramuz",
-        "img": "../alergenos/altramuz.png"
+        "img": "https://i.ibb.co/nPfv8kd/altramuz.png"
     },
     {
         "name": "cacahuetes",
-        "img": "../alergenos/cacahuetes.png"
+        "img": "https://i.ibb.co/xghPNQX/cacahuetes.png"
     },
     {
         "name": "crustaceos",
-        "img": "../alergenos/crustaceos.png"
+        "img": "https://i.ibb.co/1Gk1TsH/crustaceos.png"
     },
     {
         "name": "huevo",
-        "img": "../alergenos/huevo.png"
+        "img": "https://i.ibb.co/1MrHwhn/huevo.png"
     },
     {
         "name": "pescado",
-        "img": "../alergenos/pescado.png"
+        "img": "https://i.ibb.co/0mgT83w/pescado.png"
     },
     {
         "name": "moluscos",
-        "img": "../alergenos/moluscos.png"
+        "img": "https://i.ibb.co/8MZ64Hw/moluscos.png"
     },
     {
         "name": "sésamo",
-        "img": "../alergenos/sesamo.png"
+        "img": "https://i.ibb.co/Mn7ybdr/sesamo.png"
     },
     {
         "name": "soja",
-        "img": "../alergenos/soja.png"
+        "img": "https://i.ibb.co/3mLFP0g/soja.png"
     },
     {
         "name": "vegano",
-        "img": "../alergenos/vegan.png"
+        "img": "https://i.ibb.co/FKt0XhS/vegan.png"
     }
 ];
 
