@@ -1,21 +1,21 @@
 const objIntinerario = [
     {
-        "img":"../img/sagrada-familia.png",
+        "img":"https://i.ibb.co/vHthT4j/sagrada-familia.png",
         "time":"16:00",
         "name":"Ceremonia"
         },
     {
-        "img":"../img/cocktail.png",
+        "img":"https://i.ibb.co/wB9KhVG/cocktail.png",
         "time":"17:00",
         "name":"Cocktail"
     },
     {
-        "img":"../img/comida.png",
+        "img":"https://i.ibb.co/P9XDJ8c/comida.png",
         "time":"19:00",
         "name":"Comida"
     },
     {
-        "img":"../img/baile.png",
+        "img":"https://i.ibb.co/jLZjsnw/baile.png",
         "time":"22:00",
         "name":"Baile"
     }
